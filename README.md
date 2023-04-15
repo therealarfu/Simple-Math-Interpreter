@@ -3,7 +3,7 @@
 The project is a math expression interpreter made in python.
 
 ## Documentation
-> Logical Operators
+> Arithmetic Operators
 
 | Operator | Name | Level |
 | --- | --- | --- |
@@ -11,4 +11,4 @@ The project is a math expression interpreter made in python.
 | * | Multiply | 2 |
 | / | Division | 2 |
 | + | Sum | 1 |
-| + | Subtraction | 1 |
+| - | Subtraction | 1 |
